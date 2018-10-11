@@ -1,0 +1,60 @@
+html, body {
+	background-image: url("https://www.remsoft.com/wp-content/uploads/2018/07/conifer-daylight-environment-572688.jpg") !important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+	min-height: 99%;
+ 	display: flex;
+  	flex-direction: column;
+ 	font-weight: 300;
+  	line-height: 1.5;
+}
+
+.jumbotron-title {
+    margin-top: 25px;
+    text-align: center;
+    background-color: #ffffff !important;
+    opacity: 0.75;
+    text-shadow: 0.25px 0.25px 0.25px #000000;  
+    : 1.0; 
+    font-size: 60px;
+    height: 200px;
+    padding: 25px;
+
+}
+
+
+#image{
+    display:block;
+	margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.caption text-center {
+	colour: white #ffffff !important;
+}
+.container {
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.jumbotron{
+	margin-top: 25px;
+    text-align: left;
+    background-color: #ffffff !important;
+    opacity: 0.75;
+    text-shadow: 0.25px 0.25px 0.25px #000000;  
+    : 1.0; 
+    font-size: 60px;
+   
+    padding: 25px;
+}
